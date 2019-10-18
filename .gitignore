@@ -1,3 +1,8 @@
 keyfile.txt
 .ipynb_checkpoints/
 keyfile
+
+# 민주 개인 파일
+Output_Data/
+Input_Data/
+KOBIS_API_Format_key남은횟수추가.ipynb

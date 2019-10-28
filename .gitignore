@@ -2,6 +2,11 @@ keyfile.txt
 .ipynb_checkpoints/
 keyfile
 
+# 보민 데이터 파일 ignore
+./data/
+*.csv
+*.xlsx
+
 # 민주 개인 파일
 Output_Data/
 Input_Data/
